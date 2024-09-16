@@ -38,4 +38,3 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 ### Links:
 
 \[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\]   \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\]   \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\]
-{: style="text-align: center"}
