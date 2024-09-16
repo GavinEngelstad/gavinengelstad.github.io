@@ -1,7 +1,7 @@
 ---
 layout: distill
-title: Traffic After the Baltimore Bridge Collapse
-description: A network model for traffic after the Key Bridge collapse
+title: Vulnerability of Urban Road Systems
+description: A network analysis of the Baltimore Bridge collapse
 img: assets/img/key_bridge/betweenness_diff.png
 importance: 3
 date: 2024-05-03
@@ -15,7 +15,7 @@ authors:
 
 ### Description:
 
-This was my project in [Andrew Beveridge's](https://mathbeveridge.github.io) class Network Science (MATH 479) in Spring 2024.
+This was my project in [Andrew Beveridge's](https://mathbeveridge.github.io) Network Science class (MATH 479) in Spring 2024.
 
 In it, I sought to use a network model to explore the traffic effects of the [Container Ship *Dali* striking the Key Bridge in Baltimore](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse). My approach was mostly centered along using the structure of the road network to identify areas that were the most affected by the collapse. I also did another analysis where I incorporated commuter data to identify areas where the people would be the most affected.
 
@@ -31,10 +31,14 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
     </div>
 </div>
 <div class="caption">
-    Left: [Closeness centrality](https://en.wikipedia.org/wiki/Closeness_centrality) of intersections in the road network before the bridge collapse. Middle: Closeness centrality after the bridge collapse. Right: Change in closeness after the bridge collapse occured.
+    Left: <a href="https://en.wikipedia.org/wiki/Closeness_centrality">Closeness centrality</a></strong> of intersections in the road network before the bridge collapse. Middle: Closeness centrality after the bridge collapse. Right: Change in closeness after the bridge collapse occured.
 </div>
 
 
 ### Links:
 
-\[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\] \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\] \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\]
+<button onclick="window.location.href='https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf';">paper</button>
+<button onclick="window.location.href='(https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf';">slides</button>
+<button onclick="window.location.href='https://github.com/GavinEngelstad/NetSciBaltimoreBridge';">code</button>
+
+<!-- \[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\] \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\] \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\] -->
