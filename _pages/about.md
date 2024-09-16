@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <Math and Economics Student @ Macalester College
+subtitle: Math and Economics Student @ Macalester College
 
 profile:
   align: right
