@@ -31,10 +31,11 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
     </div>
 </div>
 <div class="caption">
-    Left: <a href="https://en.wikipedia.org/wiki/Closeness_centrality">Closeness centrality</a></strong> of intersections in the road network before the bridge collapse. Middle: Closeness centrality after the bridge collapse. Right: Change in closeness after the bridge collapse occured.
+    Left: <a href="https://en.wikipedia.org/wiki/Closeness_centrality">Closeness centrality</a> of intersections in the road network before the bridge collapse. Middle: Closeness centrality after the bridge collapse. Right: Change in closeness after the bridge collapse occured.
 </div>
 
 
 ### Links:
 
-<center> \[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\]   \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\]   \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\] </center>
+\[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\]   \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\]   \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\]
+{: style="text-align: center"}
