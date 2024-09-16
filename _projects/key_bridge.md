@@ -37,8 +37,4 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 
 ### Links:
 
-<button onclick="window.location.href='https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf';">paper</button>
-<button onclick="window.location.href='(https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf';">slides</button>
-<button onclick="window.location.href='https://github.com/GavinEngelstad/NetSciBaltimoreBridge';">code</button>
-
-<!-- \[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\] \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\] \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\] -->
+<center> \[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\]   \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\]   \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\] </center>
