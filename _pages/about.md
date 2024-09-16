@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Math/Econ @ <a href="https://www.macalester.edu">Macalester College</a>.</strong>
+subtitle: <strong>Math/Econ @ <a href="https://www.macalester.edu">Macalester College</a></strong>
 
 profile:
   align: right
