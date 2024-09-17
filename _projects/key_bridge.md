@@ -37,8 +37,38 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 
 ### Links:
 
+<!-- <div class="links">
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">slides</a>
+    <a href="https://github.com/GavinEngelstad/NetSciBaltimoreBridge" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
+</div> -->
+<style>
+.links a {
+    display: inline-block;
+    padding: 8px 16px;
+    border: 2px solid #fff; /* White border color */
+    border-radius: 8px; /* Rounded edges */
+    text-decoration: none;
+    color: #fff; /* White text color */
+    background-color: transparent; /* Fully transparent background */
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+    margin-right: 10px; /* Space between buttons */
+    position: relative; /* To handle the hover effect positioning */
+    overflow: hidden; /* To ensure hover effect doesn't overflow */
+}
+
+.links a:hover {
+    border-color: #007bff; /* Border color on hover */
+    color: #007bff; /* Text color on hover */
+    background-color: rgba(240, 248, 255, 0.2); /* Slightly transparent background on hover */
+}
+</style>
+
 <div class="links">
     <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
     <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">slides</a>
     <a href="https://github.com/GavinEngelstad/NetSciBaltimoreBridge" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
 </div>
+
+
+
