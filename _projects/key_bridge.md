@@ -38,7 +38,7 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 ### Links:
 
 <div class="links">
-    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button">paper</a>
-    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf" class="btn btn-sm z-depth-0" role="button">slides</a>
-    <a href="https://github.com/GavinEngelstad/NetSciBaltimoreBridge" class="btn btn-sm z-depth-0" role="button">code</a>
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">slides</a>
+    <a href="https://github.com/GavinEngelstad/NetSciBaltimoreBridge" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
 </div>
