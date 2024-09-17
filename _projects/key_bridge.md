@@ -17,7 +17,7 @@ authors:
 
 This was my project in [Andrew Beveridge's](https://mathbeveridge.github.io) Network Science class (MATH 479) in Spring 2024.
 
-In it, I sought to use a network model to explore the traffic effects of the [Container Ship *Dali* striking the Key Bridge in Baltimore](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse). My approach was mostly centered along using the structure of the road network to identify areas that were the most affected by the collapse. I also did another analysis where I incorporated commuter data to identify areas where the people would be the most affected.
+In it, I sought to use a network model to explore the traffic effects of the [Container Ship *Dali* striking the Key Bridge in Baltimore](https://en.wikipedia.org/wiki/Francis_Scott_Key_Bridge_collapse). My approach used the structure of the road network to identify areas that were the most affected by the collapse. I also did another analysis where I incorporated commuter data to identify areas where the people would be the most affected.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -37,4 +37,8 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 
 ### Links:
 
-\[[paper](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf)\]   \[[slides](https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf)\]   \[[code](https://github.com/GavinEngelstad/NetSciBaltimoreBridge)\]
+<div class="links">
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button">paper</a>
+    <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci_presentation.pdf" class="btn btn-sm z-depth-0" role="button">slides</a>
+    <a href="https://github.com/GavinEngelstad/NetSciBaltimoreBridge" class="btn btn-sm z-depth-0" role="button">code</a>
+</div>
