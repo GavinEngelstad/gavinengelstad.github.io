@@ -13,14 +13,6 @@ authors:
       name: Macalester College
 ---
 
-<style>
-    .links {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-</style>
-
 ### Description:
 
 This was my project in [Andrew Beveridge's](https://mathbeveridge.github.io) Network Science class (MATH 479) in Spring 2024.
@@ -44,6 +36,14 @@ In it, I sought to use a network model to explore the traffic effects of the [Co
 
 
 ### Links:
+
+<style>
+    .links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
 
 <div class="links">
     <a href="https://gavinengelstad.github.io/assets/pdf/key_bridge/gavin_netsci.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
