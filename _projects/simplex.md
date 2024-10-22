@@ -2,7 +2,7 @@
 layout: distill
 title: Introduction to Linear Programming
 description: A Simplex Implementation
-img:
+img: assets/img/simplex/lp.png
 importance: 3
 date: 2023-12-16
 category: school
