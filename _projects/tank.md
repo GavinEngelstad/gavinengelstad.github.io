@@ -4,7 +4,7 @@ title: Non-Representative Agents
 description: Analyzing the Impact of Representative Agent Assumptions on DSGE Models
 img: assets/img/tank/irf.jpg
 importance: 4
-date: 2024-5-5
+date: 2024-05-03
 category: school
 authors:
   - name: Gavin Engelstad
@@ -34,4 +34,3 @@ More generally, this project acted as a precursor to [my honors project in econo
     <a href="https://gavinengelstad.github.io/assets/pdf/tank/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
     <a href="https://github.com/GavinEngelstad/Spring2024MacroModeling" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
 </div>
-

@@ -21,7 +21,7 @@ authors:
 
 This was my project in [Lori Ziegelmeier's](https://www.loriziegelmeier.com) Computational Geometry class (Math 437) with Caleb Williams.
 
-Together, we implemented the Simplex Method in Python to solve Linear Programs. The implementation can handle conditions with different types of equality ($\leq$, $=$, $\geq$). Once we finished our implementation, we used it to analyze a handful of optimization problems, including the Traveling Salesman Problem and a workplace scheduling problem.
+Together, we implemented the Simplex Method in Python to solve Linear Programs. The implementation can handle conditions with different types of equality (≤, =, ≥). Once we finished our implementation, we used it to analyze a handful of optimization problems, including the Traveling Salesman Problem and a workplace scheduling problem.
 
 
 ### Links:
@@ -39,4 +39,3 @@ Together, we implemented the Simplex Method in Python to solve Linear Programs. 
     <a href="https://gavinengelstad.github.io/assets/pdf/simplex/Presentation.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">slides</a>
     <a href="https://github.com/GavinEngelstad/Comp-Geom-Simplex-Implementation" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
 </div>
-
