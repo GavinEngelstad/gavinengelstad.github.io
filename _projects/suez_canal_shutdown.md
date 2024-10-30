@@ -2,7 +2,7 @@
 layout: distill
 title: Shock Risks and Chokepoint Overreliance
 description: Empirical Evidence from the Ever Given Incident
-img: assets/img/suez_canal/dist_relia.jpg
+img: assets/img/suez_canal/map.png
 importance: 1
 date: 2024-05-03
 category: school
