@@ -3,7 +3,7 @@ layout: distill
 title: Non-Representative Agents
 description: Analyzing the Impact of Representative Agent Assumptions on DSGE Models
 img: assets/img/tank/irf.jpg
-importance: 4
+importance: 7
 date: 2024-05-03
 category: school
 authors:

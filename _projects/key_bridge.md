@@ -3,7 +3,7 @@ layout: distill
 title: Vulnerability of Urban Road Systems
 description: A network analysis of the Baltimore Bridge collapse
 img: assets/img/key_bridge/betweenness_diff.png
-importance: 3
+importance: 5
 date: 2024-05-03
 category: school
 authors:
