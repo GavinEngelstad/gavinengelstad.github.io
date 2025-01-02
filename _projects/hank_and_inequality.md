@@ -17,7 +17,7 @@ authors:
 
 This is my honors project in economics advised by [Mario Solis-Garcia](https://sites.google.com/a/macalester.edu/solis-garcia/).
 
-For the project, I was interested in how people of different wealth and income level respond to business cycle shocks. To examine that, I use a heterogeneous agent New Keynesian (HANK) model with 7 business cycle shocks. I then estimate the effects of the shocks using Bayesian methods in the sequence space and perform a historical decomposition of each of the shocks. Using the estimated parameters and paths for each of the shocks, I examine how different households act within the model.
+For the project, I was interested in how people of different wealth and income levels respond to business cycle shocks. To examine that, I use a heterogeneous agent New Keynesian (HANK) model with 7 business cycle shocks. I then estimate the effects of the shocks using Bayesian methods in the sequence space and perform a historical decomposition of each of the shocks. Using the estimated parameters and paths for each of the shocks, I examine how different households act within the model.
 
 In March 2025, I'll be presenting the project at the Midwest Economics Association's annual meeting. The project is still ongoing, and the draft here will be updated periodically.
 

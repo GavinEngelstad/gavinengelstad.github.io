@@ -32,7 +32,7 @@ authors:
 
 Starting in summer 2024, I worked with [Gaurav Khanna](https://www.econgaurav.com) and two grad students to examine city wage premiums.
 
-We use an AKM and movers design estimate to analyze how place affects earnings. Unlike past similar work, we use a global panel from LinkedIn with more than 500 million people, which allows us to take a more global perspective and analyze both country and city effects.
+We use an AKM and movers design estimate to analyze how place affects earnings. Unlike past similar work, we use a panel from LinkedIn with more than 500 million people from around the world, which allows us to take a more global perspective and analyze both country and city effects.
 
 A very early draft of the paper is linked below. It will be periodically updated as I have more recent versions.
 

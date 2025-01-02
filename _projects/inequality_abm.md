@@ -17,7 +17,7 @@ authors:
 
 This was my project in [Will Mitchell's](https://sites.google.com/macalester.edu/willmitchell/home) Mathematical Modeling (MATH 432) class in Fall 2023.
 
-For the project, I was interested in using an agent based model to examine wealth dynamics in the United States. For the project, I used a yard sale model setup where agents in the model were randomly paired up and one transferred some amount of wealth to the other. Unlike standard yard sale models where each agent has a 50/50 chance of being the giver or receiver of the transfer but the transfer varies in size based on whether the richer or poorer agent is in each role, my model has a fixed transfer amount but a slight bias towards the richer agent receiving the transfer.
+For the project, I was interested in using an agent based model to examine wealth dynamics in the United States. I used a yard sale model setup where agents in the model were randomly paired up and one transferred some amount of wealth to the other. Unlike standard yard sale models where each agent has a 50/50 chance of being the giver or receiver of the transfer but the transfer varies in size based on whether the richer or poorer agent is in each role, my model has a fixed transfer amount but a slight bias towards the richer agent receiving the transfer.
 
 Like other yard sale models, my model is able to accurately replicate the wealth distribution of the United States, measured through the Lorenz Curve.
 
