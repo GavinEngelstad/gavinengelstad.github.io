@@ -45,4 +45,4 @@ My role in the project was focused on getting representatives of each of the gap
 
 I'm expanding on my work in this project in my honors project in mathematics. I'm looking into new, network-specific approaches to optimizing the representatives of cycles and performing an empirical analysis of the role the papers in the gaps play in scientific literature.
 
-At the 2025 JMM, I'll be presenting my work in this project in a special session and the undergraduate poster session. In the future, I'll update this page with drafts of my honors and any other papers we work on.
+At the 2025 JMM, I presented my work in this project in a special session and the undergraduate poster session. In the future, I'll update this page with drafts of my honors and any other papers we work on.
