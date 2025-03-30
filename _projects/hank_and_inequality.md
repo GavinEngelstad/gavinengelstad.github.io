@@ -34,6 +34,6 @@ In March 2025, I won the Best Undergraduate Paper Award at the Midwest Economics
 
 <div class="links">
     <a href="https://gavinengelstad.github.io/assets/pdf/hank/paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
-    <a href="https://gavinengelstad.github.io/assets/pdf/hank/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">paper</a>
+    <a href="https://gavinengelstad.github.io/assets/pdf/hank/slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">slides</a>
     <a href="https://github.com/GavinEngelstad/HANK-Honors" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">code</a>
 </div>
