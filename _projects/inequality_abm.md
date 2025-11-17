@@ -5,7 +5,7 @@ description: An agent based model to replicate US wealth inequality
 img: assets/img/inequality_abm/simvsreallc.png
 importance: 3
 date: 2023-12-16
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

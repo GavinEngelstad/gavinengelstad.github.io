@@ -5,7 +5,7 @@ description: An SVAR Approach
 img: assets/img/mutliplier/b20_irf.png
 importance: 4
 date: 2024-12-18
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

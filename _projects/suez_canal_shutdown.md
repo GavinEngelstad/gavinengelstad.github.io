@@ -5,7 +5,7 @@ description: Empirical Evidence from the Ever Given Incident
 img: assets/img/suez_canal/map.png
 importance: 1
 date: 2024-05-03
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

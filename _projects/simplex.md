@@ -5,7 +5,7 @@ description: A Simplex Implementation
 img: assets/img/simplex/lp.png
 importance: 6
 date: 2023-12-16
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

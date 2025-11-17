@@ -5,7 +5,7 @@ description: Analyzing the Impact of Representative Agent Assumptions on DSGE Mo
 img: assets/img/tank/irf.jpg
 importance: 7
 date: 2024-05-03
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

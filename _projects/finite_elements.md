@@ -4,7 +4,7 @@ title: A Finite Element Approach to Reaction-Diffusion Systems
 img: assets/img/finite_elements/rd_solved.png
 importance: 2
 date: 2024-12-18
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"

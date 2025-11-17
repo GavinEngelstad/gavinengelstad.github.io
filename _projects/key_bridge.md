@@ -5,7 +5,7 @@ description: A network analysis of the Baltimore Bridge collapse
 img: assets/img/key_bridge/betweenness_diff.png
 importance: 5
 date: 2024-05-03
-category: school
+category: undergrad
 authors:
   - name: Gavin Engelstad
     url: "https://gavinengelstad.github.io"
