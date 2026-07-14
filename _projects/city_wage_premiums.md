@@ -29,7 +29,7 @@ authors:
 
 ### Description:
 
-Starting in summer 2024, I worked with [Gaurav Khanna](https://www.econgaurav.com), [Harrison Mitchell](https://harrisonwmitchell.github.io), and Aakash Bhalothia to estimate and understand city wage premiums.
+Starting in summer 2024, I've been working with [Gaurav Khanna](https://www.econgaurav.com), [Harrison Mitchell](https://harrisonwmitchell.github.io), and Aakash Bhalothia to estimate and understand city wage premiums.
 
 We use an AKM and movers design estimate to analyze how place affects earnings. Unlike past similar work, we use a panel from LinkedIn with more than 500 million people from around the world, which allows us to take a more global perspective and analyze both country and city effects.
 
